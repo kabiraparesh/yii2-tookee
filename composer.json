@@ -1,0 +1,20 @@
+{
+    "name": "kabiraparesh/yii2-tookee",
+    "description": "Yii2 TooKee",
+    "type": "yii2-extension",
+    "require": {
+    },
+    "license": "GNU GPLv2",
+    "authors": [
+        {
+            "name": "kabiraparesh",
+            "email": "kabira@riseup.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "\\kabiraparesh\\yii2-tookee": ""
+        }
+    },    
+}
